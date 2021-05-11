@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GooglePay</string>
+    <string name="secondary_text">Price</string>
+    <string name="supporting_text">Description</string>
 </resources>
